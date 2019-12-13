@@ -1,2 +1,1 @@
-# DesafioMetaLogica3
- DesafioMetaLogica3
+DesafioMetaLogica3
