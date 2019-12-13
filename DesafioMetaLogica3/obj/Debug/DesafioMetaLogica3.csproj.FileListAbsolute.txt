@@ -1,0 +1,6 @@
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\bin\Debug\DesafioMetaLogica3.exe.config
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\bin\Debug\DesafioMetaLogica3.exe
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\bin\Debug\DesafioMetaLogica3.pdb
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\obj\Debug\DesafioMetaLogica3.csprojAssemblyReference.cache
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\obj\Debug\DesafioMetaLogica3.exe
+D:\Desenvolvimento\C#\Desafios Meta\DesafioMetaLogica3\DesafioMetaLogica3\obj\Debug\DesafioMetaLogica3.pdb
